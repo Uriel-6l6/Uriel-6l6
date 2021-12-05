@@ -1,5 +1,5 @@
 ## Hello, my name is Lucas Uriel and I'm from Brazil! 👨‍💻
-- 👀 I’m interested in data engineering
+- 👀 I’m interested in full stack development
   <img align="right" height="120" width="160" alt="Crash" src="https://c.tenor.com/E8SSBCl5b14AAAAi/crash.gif">
 - 💻 I’m currently learning data engineering
 - 📜 I’m a System Development Technician by ETEC (State Technical School) From São Paulo
